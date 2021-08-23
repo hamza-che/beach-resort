@@ -1,5 +1,5 @@
 ## Beach Resort project
-This is a hands-on project with John Smilga [Coding Addict](https://www.youtube.com/channel/UCMZFwxv5l-XtKi693qMJptA) for training on a bunch of Reactjs concepts and libraries :
+This is a hands-on project with John Smilga [Coding Addict](https://www.youtube.com/channel/UCMZFwxv5l-XtKi693qMJptA) for training on a bunch of Reactjs concepts and libraries, we used in this project :
 - Context API
 - Higher order components
 - Render props
